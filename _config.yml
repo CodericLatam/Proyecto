@@ -1,0 +1,13 @@
+title: Mi Proyecto
+email: neftaliyagua@fedoraproject.org
+description: >- # this means to ignore newlines until "baseurl:"
+  Etiam vel urna eget orci bibendum congue id eu dolor. Nulla vitae mollis mi, non tincidunt velit. Maecenas consequat a erat ut posuere. Nam eu pulvinar orci. Maecenas consectetur, lacus nec posuere scelerisque, metus odio suscipit enim, at aliquet dolor sapien sit amet arcu. Integer rutrum ipsum orci, nec porttitor enim auctor at. Mauris erat eros, tempor et risus ac, fermentum scelerisque purus.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
